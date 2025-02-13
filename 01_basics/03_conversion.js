@@ -18,3 +18,20 @@ console.log(booleanisloggedin)
 //1=>true  ; 0=>false
 //"" =>false
 //"hhhelo"=>true
+
+
+
+
+//stack for primitive and heap for non primitive
+
+let myyoutubename ="hitesh"
+let anothername = myyoutubename
+anothername="chai aur cpode"
+
+console.log(myyoutubename)
+console.log(anothername)
+
+let user ={
+    email: "abc@mailcom ", 
+    upi : "34@ybl"
+}
